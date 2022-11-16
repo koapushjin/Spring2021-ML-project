@@ -2,5 +2,7 @@
 
 CSCI-SHU 360 Machine Learning (Spring 2021) course project.
 
-- See an overview of the project in **^Presentation.pdf**.
-- See final report in **^Paper.pdf**.
+Group Member: Tian Jin, Anran Wang, Zhenming Wang.
+
+- See an overview of the project in [^Presentation.pdf](https://github.com/koapushjin/Spring2021-ML-project/blob/main/%5EPresentation.pdf).
+- See final report in [^Paper.pdf](https://github.com/koapushjin/Spring2021-ML-project/blob/main/%5EPaper.pdf).
